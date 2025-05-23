@@ -8,6 +8,7 @@
 </p>
 
 Ferramenta para extrair texto de PDFs, traduzir para português e gerar áudio em espanhol ou inglês, para aprendizado de idiomas!
+Para conseguir esse resultado usei generative AI e diversas tentativas de código com bibliotecas python e a gtts foi a que apresentou melhor resultado de compatibilidade.
 
 ## ✨ Funcionalidades
 
